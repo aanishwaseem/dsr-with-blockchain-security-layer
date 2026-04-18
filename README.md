@@ -1,4 +1,4 @@
-# DSR-Based Adhoc Mesh Runtime
+# DSR Chat
 
 A lightweight Python mesh runtime that combines peer discovery, UDP transport, a Linux TUN interface, and terminal chat for ad hoc node-to-node communication.
 
